@@ -65,8 +65,4 @@ area-membros/
 
 - Login: `joao123` | Senha: `123456`
 - Login: `maria456` | Senha: `123456`
-- Login: `pedro789` | Senha: `123456`
-
----
-
-**Desenvolvido para a comunidade Nômade Milionário** 
+- Login: `pedro789` | Senha: `123456` 
