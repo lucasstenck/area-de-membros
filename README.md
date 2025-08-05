@@ -1,4 +1,4 @@
-# Nômade Milionário - Área de Membros
+# Área de Membros
 
 Plataforma para gerenciamento de cursos online com React, TypeScript e PHP. Sistema de autenticação, progresso individual, player de vídeo integrado, comunidade com chat e interface responsiva.
 
